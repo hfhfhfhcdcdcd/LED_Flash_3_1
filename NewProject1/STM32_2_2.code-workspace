@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../STM32_2_1"
+		},
+		{
+			"name": "3-1",
+			"path": "../../3-1"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stm32f10x.h": "c"
+		}
+	}
+}
